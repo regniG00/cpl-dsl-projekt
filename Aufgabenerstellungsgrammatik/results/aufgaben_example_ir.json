@@ -1,0 +1,64 @@
+{
+    "type": "Program",
+    "tasks": [
+        {
+            "header": "Task 1",
+            "type": "RoF",
+            "rofTasks": [
+                {
+                    "question": "Paris is in France.",
+                    "answers": [
+                        {
+                            "isTrue": true,
+                            "reason": ""
+                        }
+                    ]
+                },
+                {
+                    "question": "Rockets can not explode!",
+                    "answers": [
+                        {
+                            "isTrue": false,
+                            "reason": "Rockets have an inflammable fueltank."
+                        }
+                    ]
+                }
+            ],
+            "sortingTasks": [],
+            "matchingTasks": [],
+            "markingTask": {
+                "question": "",
+                "markingText": ""
+            }
+        },
+        {
+            "header": "Task 2",
+            "type": "Zuordnung",
+            "rofTasks": [],
+            "sortingTasks": [],
+            "matchingTasks": [
+                {
+                    "question": "Assign the (countries) the matching (capitals).",
+                    "items": [
+                        {
+                            "left": "Germany",
+                            "right": "Berlin"
+                        },
+                        {
+                            "left": "France",
+                            "right": "Paris"
+                        },
+                        {
+                            "left": "Canada",
+                            "right": "Ottawa"
+                        }
+                    ]
+                }
+            ],
+            "markingTask": {
+                "question": "",
+                "markingText": ""
+            }
+        }
+    ]
+}

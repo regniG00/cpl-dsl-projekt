@@ -1,0 +1,6 @@
+Aufgabe Cloze(Lückentext): Fuelle die Luecken aus. Niklas ist [ein] toller Mensch.;
+Aufgabe 4(Zuordnung): Ordne (Hauptstadt) zu (Land)! -Paris/Frankreich -Berlin/Deutschland -Amsterdam/Niederlande;
+Testaufgabe(RoF):
+    Berlin ist die Haupstadt von Deutschland. -Richtig
+    Paris ist die Haupstadt von England. -Falsch -> Paris ist die Haupstadt von Frankreich.
+    Diese Aufgabe ist super schwierig und Rchtig. -Richtig;
