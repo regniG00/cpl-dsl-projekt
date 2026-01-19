@@ -138,3 +138,13 @@ Problem: Wie balanced man Aufgabenpunkte in Relation zur Gesamtklausur. Einige A
 - Added point system to grammar
 - Implement IR, use inheritance and variants for task types
 - Fix problem with words
+
+## Meeting 8 (19.01.2026)
+
+- Fertigstellung Präsentation
+- Repo Pflege
+- Ausbesserungen der Grammatik
+- Fertigstellung des DSL Manuals
+- Fertigstellung der Pipeline
+- Finale Besprechung und Vorbereitung
+- Eröffnung einer neuen sauberen Repo
