@@ -1,0 +1,396 @@
+Aufgabe 1(Lueckentext): Fuelle die Luecken aus.
+    CPL ist ein (tolles,2) Modul.
+    Ein Vogel kann (fliegen,1).;
+
+Aufgabe 2(Auswahl):
+    Wie viele Bits sind in einem Byte. -8 Bit(2) -4 Bit -1 Bit -16 Bit
+    Welche Staedte sind in Deutschland? -Berlin(1) -Minden(1) -Paris(-1) -London(-1);
+
+Aufgabe 3(RoF):
+    Berlin ist die Hauptstadt von Deutschland. -Richtig
+    Paris ist die Hauptstadt von England. -Falsch -> Paris ist die Hauptstadt von Frankreich.
+    Wasser ist nass. -Richtig;
+
+Aufgabe 4(Zuordnung):
+    Ordne (Hauptstadt) zu (Land)!(3) -Paris/Frankreich -Berlin/Deutschland -Rom/Italien
+    Ordne (Hauptstadt) zu (Land)! -Madrid/Spanien -Wien/Oesterreich -Bern/Schweiz;
+
+Aufgabe 5(Umordnung):
+    Sortiere die Zahlen aufsteigend.(2) -3 -1 -2
+    Sortiere die Zahlen aufsteigend. -8 -5 -7 -6;
+
+Aufgabe 6(Markierung): Markiere alle Autoren.
+    (Goethe)[1] schrieb Faust.
+    (Kafka)[2] schrieb Die Verwandlung.;
+
+Aufgabe 7(Markierung): Markiere alle Rechtschreibfehler.
+    Die Hauptstadt von Deutschland ist (Baerlin)[Berlin,1].
+    Ein Vogel kann (vliegen)[fliegen,2].;
+
+Aufgabe 8(Textkorrektur): Korrigiere die Rechtschreibfehler im Text.
+    Die Hauptstadt von Deutschland ist (Baerlin)[Berlin,1].
+    Ein Vogel kann (vliegen)[fliegen,2].;
+
+Aufgabe 9(Lueckentext): Fuelle die Luecken aus.
+    2 + 2 = (4,1).
+    Das Gegenteil von kalt ist (warm,1).;
+
+Aufgabe 10(Auswahl):
+    Welche Zahl ist gerade? -3 -4(1) -7 -9
+    Welche Sprache ist eine Programmiersprache? -Python(1) -Banane(-1) -Auto(-1) -Hund(-1);
+
+Aufgabe 11(RoF):
+    Die Sonne geht im Osten auf. -Richtig
+    1 Kilometer sind 100 Meter. -Falsch -> 1 Kilometer sind 1000 Meter.
+    Ein Rechteck hat vier Ecken. -Richtig;
+
+Aufgabe 12(Zuordnung):
+    Ordne (Tier) zu (Kategorie)!(2) -Hund/Saeugetier -Frosch/Amphibie -Amsel/Vogel
+    Ordne (Obst) zu (Farbe)! -Banane/gelb -Apfel/rot -Kiwi/gruen;
+
+Aufgabe 13(Umordnung):
+    Sortiere die Woerter alphabetisch.(2) -Zug -Apfel -Maus
+    Sortiere die Monate chronologisch. -Maerz -Januar -Februar;
+
+Aufgabe 14(Markierung): Markiere alle Verben.
+    Ich (gehe)[1] nach Hause und (esse)[2] dann etwas.;
+
+Aufgabe 15(Textkorrektur): Korrigiere die Fehler.
+    Ich (geh)[gehe,1] nach Hause.
+    Wir (seid)[sind,1] bereit.;
+
+Aufgabe 16(Lueckentext): Fuelle die Luecken aus.
+    HTTP steht fuer (Hypertext,1) Transfer Protocol.
+    JSON ist ein (Datenformat,1).;
+
+Aufgabe 17(Auswahl):
+    Was ist ein Betriebssystem? -Windows(1) -Chrome(-1) -HTML(-1) -USB(-1)
+    Welche Einheit misst Stromstaerke? -Ampere(1) -Volt(-1) -Watt(-1) -Ohm(-1);
+
+Aufgabe 18(RoF):
+    Ein Byte hat 8 Bit. -Richtig
+    C++ ist rein funktional. -Falsch -> C++ ist multiparadigmatisch.
+    Ein Compiler erzeugt oft Maschinencode. -Richtig;
+
+Aufgabe 19(Zuordnung):
+    Ordne (Protokoll) zu (Schicht)!(3) -HTTP/Anwendung -TCP/Transport -IP/Netzwerk
+    Ordne (Dateiendung) zu (Typ)! -png/Bild -mp3/Audio -pdf/Dokument;
+
+Aufgabe 20(Umordnung):
+    Sortiere die Schritte eines Compilers.(3) -Codegen -Parsing -Lexing -Typecheck
+    Sortiere nach Groesse. -klein -mittel -gross;
+
+Aufgabe 21(Markierung): Markiere alle Zahlen.
+    Heute sind es (3)[1] Grad und morgen (5)[2].;
+
+Aufgabe 22(Markierung): Markiere alle falschen Woerter.
+    Das ist ein (gute)[gutes,1] Beispiel.
+    Wir (gehn)[gehen,1] jetzt los.;
+
+Aufgabe 23(Textkorrektur): Korrigiere den Text.
+    Das ist ein (gute)[gutes,1] Beispiel.
+    Wir (gehn)[gehen,1] jetzt los.;
+
+Aufgabe 24(Lueckentext): Fuelle die Luecken aus.
+    Die Hauptstadt von Frankreich ist (Paris,1).
+    Die Hauptstadt von Italien ist (Rom,1).;
+
+Aufgabe 25(Auswahl):
+    Welche Aussage ist wahr? -2+2=4(1) -2+2=5(-1) -2+2=3(-1) -2+2=6(-1)
+    Welche Farbe hat Gras? -gruen(1) -blau(-1) -lila(-1) -orange(-1);
+
+Aufgabe 26(RoF):
+    Ein Dreieck hat drei Seiten. -Richtig
+    Die Erde ist ein Stern. -Falsch -> Die Erde ist ein Planet.
+    0 ist eine Zahl. -Richtig;
+
+Aufgabe 27(Zuordnung):
+    Ordne (Symbol) zu (Bedeutung)!(2) -+=Addition -==Vergleich -!=Ungleich
+    Ordne (Operator) zu (Kategorie)! -&&/logisch -%/arithmetisch -?/ternary;
+
+Aufgabe 28(Umordnung):
+    Sortiere die Planeten nach Entfernung zur Sonne.(2) -Erde -Merkur -Mars -Venus
+    Sortiere die Versionsphasen. -Alpha -Beta -Release;
+
+Aufgabe 29(Markierung): Markiere alle Substantive.
+    Der (Hund)[1] jagt die (Katze)[2].;
+
+Aufgabe 30(Textkorrektur): Korrigiere.
+    Wir (fart)[fahrt,1] morgen.
+    Du (hast)[hast,1] Recht.;  # absichtlich korrekt, sollte evtl. trotzdem akzeptiert werden
+
+Aufgabe 31(Lueckentext): Fuelle die Luecken aus.
+    Ein Stack arbeitet nach (LIFO,1).
+    Eine Queue arbeitet nach (FIFO,1).;
+
+Aufgabe 32(Auswahl):
+    Was ist ANTLR? -Parsergenerator(1) -Grafikkarte(-1) -Datenbank(-1) -Texteditor(-1)
+    Was ist eine AST? -Abstrakter Syntaxbaum(1) -Audio Stream(-1) -Array Sort Trick(-1) -ASCII Table(-1);
+
+Aufgabe 33(RoF):
+    Eine Grammatik beschreibt Syntax. -Richtig
+    IR steht fuer Intermediate Representation. -Richtig
+    Ein Lexer arbeitet auf Tokens. -Falsch -> Ein Lexer erzeugt Tokens.;
+
+Aufgabe 34(Zuordnung):
+    Ordne (Phase) zu (Input->Output)!(3) -Lexing/Text->Tokens -Parsing/Tokens->AST -Semantik/AST->IR
+    Ordne (Struktur) zu (Eigenschaft)! -AST/nah an Syntax -IR/nah an Bedeutung -JSON/Serialisierung;
+
+Aufgabe 35(Umordnung):
+    Sortiere nach Komplexitaet.(2) -O(1) -O(n) -O(n^2)
+    Sortiere nach Zeit. -morgen -heute -gestern;
+
+Aufgabe 36(Markierung): Markiere alle englischen Woerter.
+    Ich mag (Computer)[1] und (Science)[2].;
+
+Aufgabe 37(Textkorrektur): Korrigiere.
+    Der Compiler (parst)[parst,1] den Code.;
+
+Aufgabe 38(Lueckentext): Fuelle die Luecken aus.
+    In C++ ist `std::variant` eine Art (Summentyp,1).
+    In Prolog gibt es (Backtracking,1).;
+
+Aufgabe 39(Auswahl):
+    Was ist ein Literal? -Konstanter Wert(1) -Variable(-1) -Schleife(-1) -Header(-1)
+    Welche Zahl ist prim? -9(-1) -11(1) -21(-1) -1(-1);
+
+Aufgabe 40(RoF):
+    JSON kann verschachtelt sein. -Richtig
+    Ein Parser prueft automatisch Semantik. -Falsch -> Parser prueft Syntax.
+    Typen helfen beim Refactoring. -Richtig;
+
+Aufgabe 41(Zuordnung):
+    Ordne (Datentyp) zu (Beispiel)!(2) -int/42 -string/hallo -bool/true
+    Ordne (Sammlung) zu (Eigenschaft)! -vector/dynamisch -array/feste Groesse -map/Schluessel;
+
+Aufgabe 42(Umordnung):
+    Sortiere die Schritte beim Testen.(2) -Arrange -Act -Assert
+    Sortiere nach Laenge. -a -aa -aaa -aaaa;
+
+Aufgabe 43(Markierung): Markiere alle Adjektive.
+    Das ist ein (schnelles)[1] und (robustes)[2] System.;
+
+Aufgabe 44(Textkorrektur): Korrigiere die Fehler.
+    Das ist ein (schnel)[schnell,1] System.
+    Wir sind (robustt)[robust,1].;
+
+Aufgabe 45(Lueckentext): Fuelle die Luecken aus.
+    Ein Graph besteht aus (Knoten,1) und (Kanten,1).
+    BFS steht fuer (Breadth,1) First Search.;
+
+Aufgabe 46(Auswahl):
+    Was ist BFS? -Breitensuche(1) -Tiefensuche(-1) -Sortieralgo(-1) -Hashfunktion(-1)
+    Was ist DFS? -Tiefensuche(1) -Breitensuche(-1) -Datenformat(-1) -Protokoll(-1);
+
+Aufgabe 47(RoF):
+    10 ist groesser als 2. -Richtig
+    Eine Liste hat immer feste Laenge. -Falsch -> Listen koennen variieren.
+    Unicode ist groesser als ASCII. -Richtig;
+
+Aufgabe 48(Zuordnung):
+    Ordne (Farbe) zu (RGB)!(3) -rot/255,0,0 -gruen/0,255,0 -blau/0,0,255
+    Ordne (Symbol) zu (HTML) ! -<p>/Absatz -<a>/Link -<img>/Bild;
+
+Aufgabe 49(Umordnung):
+    Sortiere diese Zahlen absteigend.(2) -1 -9 -3 -7
+    Sortiere diese Zahlen aufsteigend. -10 -2 -5 -1;
+
+Aufgabe 50(Markierung): Markiere alle Laender.
+    (Deutschland)[1] liegt in Europa, (Japan)[2] in Asien.;
+
+Aufgabe 51(Textkorrektur): Korrigiere.
+    (Deutchland)[Deutschland,1] liegt in Europa.
+    (Jappan)[Japan,1] liegt in Asien.;
+
+Aufgabe 52(Lueckentext): Fuelle die Luecken aus.
+    Ein Notebook kann (Code,1) ausfuehren.
+    Ein Test kann (fehlschlagen,1).;
+
+Aufgabe 53(Auswahl):
+    Was bedeutet CI? -Continuous Integration(1) -Computer Interface(-1) -Code Injection(-1) -Crypto Index(-1)
+    Was ist ein Unit-Test? -Test einer kleinen Einheit(1) -Integrationstest(-1) -Lasttest(-1) -Backup(-1);
+
+Aufgabe 54(RoF):
+    Tests koennen Regressionen finden. -Richtig
+    Performance ist immer wichtiger als Korrektheit. -Falsch -> Korrektheit ist Basis.
+    Deterministische Seeds helfen bei Reproduzierbarkeit. -Richtig;
+
+Aufgabe 55(Zuordnung):
+    Ordne (Testart) zu (Ziel)!(2) -Unit/Funktion -Integration/Zusammenspiel -E2E/System
+    Ordne (Metrik) zu (Bedeutung)! -P95/Ausreisser -Mean/Durchschnitt -Median/typisch;
+
+Aufgabe 56(Umordnung):
+    Sortiere die Zahlen nach Betrag.(2) --1 -2 3 -4
+    Sortiere die Strings. -bbb -a -cc;
+
+Aufgabe 57(Markierung): Markiere alle Satzzeichen.
+    Hallo,(,)[1] Welt(!)[2];
+
+Aufgabe 58(Textkorrektur): Korrigiere.
+    Ein Vogel kann (fliegenn)[fliegen,1].
+    Heute ist (Montag)[Montag,1].;
+
+Aufgabe 59(Lueckentext): Fuelle die Luecken aus.
+    Der IRBuilder baut (IR,1) aus dem Parsebaum.
+    DomainJson schreibt (JSON,1).;
+
+Aufgabe 60(Auswahl):
+    Was ist IR? -Zwischenrepräsentation(1) -Internet Router(-1) -Image Reader(-1) -Index Range(-1)
+    Was ist ein Visitor? -Baumdurchlauf(1) -Speicherleck(-1) -Compilerflag(-1) -Bytecode(-1);
+
+Aufgabe 61(RoF):
+    Ein Visitor kann Knoten besuchen. -Richtig
+    Listener und Visitor sind identisch. -Falsch -> Unterschiedliche Traversal-Modelle.
+    Grammatik-Aenderungen koennen Tests brechen. -Richtig;
+
+Aufgabe 62(Zuordnung):
+    Ordne (Container) zu (Operation)!(2) -stack/push-pop -queue/enqueue-dequeue -set/unique
+    Ordne (Fehler) zu (Schicht)! -Syntax/Parser -Semantik/Typecheck -Runtime/Ausfuehrung;
+
+Aufgabe 63(Umordnung):
+    Sortiere nach Alphabet.(2) -delta -alpha -beta -gamma
+    Sortiere die Zahlen. -100 -1 -10 -2;
+
+Aufgabe 64(Markierung): Markiere alle Eigennamen.
+    (Malte)[1] studiert in (Minden)[2].;
+
+Aufgabe 65(Textkorrektur): Korrigiere die Fehler.
+    (Mlate)[Malte,1] studiert.
+    Er wohnt in (Mindne)[Minden,1].;
+
+Aufgabe 66(Lueckentext): Fuelle die Luecken aus.
+    Eine Grammatik kann (mehrdeutig,1) sein.
+    Ein IR sollte (eindeutig,1) sein.;
+
+Aufgabe 67(Auswahl):
+    Was ist Ambiguitaet? -Mehrdeutigkeit(1) -Geschwindigkeit(-1) -Typfehler(-1) -Speicher(-1)
+    Was ist Determinismus? -Gleiche Inputs gleiche Outputs(1) -Zufall(-1) -Chaos(-1) -Overfitting(-1);
+
+Aufgabe 68(RoF):
+    Mehrdeutigkeit kann zu falschen Parsebaeumen fuehren. -Richtig
+    Ein Typechecker kann nur Syntax pruefen. -Falsch -> Typechecker prueft Semantik.
+    JSON ist typisiert wie C++. -Falsch -> JSON ist locker typisiert.;
+
+Aufgabe 69(Zuordnung):
+    Ordne (Begriff) zu (Kurz)!(2) -Domain Specific Language/DSL -Abstract Syntax Tree/AST -Intermediate Representation/IR
+    Ordne (Tool) zu (Zweck)! -cmake/Build -antlr/Parser -git/Versionskontrolle;
+
+Aufgabe 70(Umordnung):
+    Sortiere die Zahlen nach Laenge der Darstellung.(2) -1 -22 -333 -4444
+    Sortiere nach Wert. -0 -1 -2 -3;
+
+Aufgabe 71(Markierung): Markiere alle HTML-Tags.
+    In HTML gibt es (<p>)[1] und (<a>)[2].;
+
+Aufgabe 72(Textkorrektur): Korrigiere.
+    In HTML gibt es (<pp>)[<p>,1].;
+
+Aufgabe 73(Lueckentext): Fuelle die Luecken aus.
+    Ein Lexer teilt Text in (Tokens,1).
+    Ein Parser baut einen (Baum,1).;
+
+Aufgabe 74(Auswahl):
+    Wofuer steht CPU? -Central Processing Unit(1) -Control Program Utility(-1) -Code Parsing Unit(-1) -Cache Power Usage(-1)
+    Was ist RAM? -Arbeitsspeicher(1) -Festplatte(-1) -GPU(-1) -Netzwerk(-1);
+
+Aufgabe 75(RoF):
+    RAM ist schneller als eine Festplatte. -Richtig
+    Eine SSD ist langsamer als HDD. -Falsch -> SSD ist meist schneller.
+    Ein Bit kann nur 0 oder 1 sein. -Richtig;
+
+Aufgabe 76(Zuordnung):
+    Ordne (Einheit) zu (Groesse)!(2) -Hz/Frequenz -V/Spannung -A/Strom
+    Ordne (SI-Praefix) zu (Faktor)! -k/1000 -M/1000000 -m/0.001;
+
+Aufgabe 77(Umordnung):
+    Sortiere die Wochentage.(2) -Freitag -Montag -Mittwoch -Dienstag
+    Sortiere die Versionen. -v1 -v10 -v2;
+
+Aufgabe 78(Markierung): Markiere alle positiven Beispiele.
+    (gut)[1] (super)[2] (schlecht)[3];  # hier ist absichtlich "schlecht" drin, je nach Semantik ok
+
+Aufgabe 79(Textkorrektur): Korrigiere.
+    Das ist (supre)[super,1].
+    Das ist (gutt)[gut,1].;
+
+Aufgabe 80(Lueckentext): Fuelle die Luecken aus.
+    In C++ gibt es (Header,1) und (Quelltexte,1).
+    Build-Systeme wie (cmake,1) generieren Projektdateien.;
+
+Aufgabe 81(Auswahl):
+    Was ist ein Linker? -Verbindet Objektdateien(1) -Schreibt JSON(-1) -Parst Tokens(-1) -Malt Bilder(-1)
+    Was ist ein Assembler? -Maschinencode nahe Sprache(1) -Datenbank(-1) -Browser(-1) -Textformat(-1);
+
+Aufgabe 82(RoF):
+    Ein Linker kommt nach dem Compiler. -Richtig
+    Ein Parser kommt vor dem Lexer. -Falsch -> Lexer kommt typischerweise zuerst.
+    IR kann fuer mehrere Backends genutzt werden. -Richtig;
+
+Aufgabe 83(Zuordnung):
+    Ordne (Artefakt) zu (Beispiel)!(2) -Token/IDENT -AST/Expression -IR/ChoiceTask
+    Ordne (Datei) zu (Inhalt)! -g4/Grammar -cpp/Code -json/Output;
+
+Aufgabe 84(Umordnung):
+    Sortiere die Zahlen nach Rest bei Division durch 2.(2) -1 -2 -3 -4
+    Sortiere die Laengen. -kurz -laenger -amlaengsten;
+
+Aufgabe 85(Markierung): Markiere alle Fachbegriffe.
+    (Lexer)[1] (Parser)[2] (IR)[3] sind Begriffe.;
+
+Aufgabe 86(Textkorrektur): Korrigiere.
+    (Lxer)[Lexer,1] und (Praser)[Parser,1].;
+
+Aufgabe 87(Lueckentext): Fuelle die Luecken aus.
+    Eine Fehlermeldung sollte (verstaendlich,1) sein.
+    Ein Test sollte (reproduzierbar,1) sein.;
+
+Aufgabe 88(Auswahl):
+    Was ist P95? -95%-Perzentil(1) -Durchschnitt(-1) -Maximum(-1) -Minimum(-1)
+    Was ist Median? -50%-Perzentil(1) -90%-Perzentil(-1) -Summe(-1) -Varianz(-1);
+
+Aufgabe 89(RoF):
+    Perzentile zeigen Verteilungen. -Richtig
+    Durchschnitt ignoriert Ausreisser nie. -Falsch -> Durchschnitt ist ausreisserempfindlich.
+    Median ist robust gegen Ausreisser. -Richtig;
+
+Aufgabe 90(Zuordnung):
+    Ordne (Symbol) zu (Aussage)!(2) -==/gleich -</kleiner -</=kleiner-gleich
+    Ordne (Build) zu (Befehl)! -configure/cmake .. -build/cmake --build . -run/aufgaben_dsl.exe;
+
+Aufgabe 91(Umordnung):
+    Sortiere nach Prioritaet.(2) -hoch -mittel -niedrig
+    Sortiere die Zahlen. -5 -4 -3 -2 -1;
+
+Aufgabe 92(Markierung): Markiere alle Tiere.
+    (Hund)[1] (Katze)[2] (Auto)[3] (Vogel)[4];  # Auto absichtlich als "nicht Tier"
+
+Aufgabe 93(Textkorrektur): Korrigiere.
+    Ein (Voggel)[Vogel,1] kann fliegen.;
+
+Aufgabe 94(Lueckentext): Fuelle die Luecken aus.
+    Eine Zuordnung hat (Paare,1).
+    Eine Auswahl hat (Optionen,1).;
+
+Aufgabe 95(Auswahl):
+    Welche Struktur ist geordnet? -vector(1) -set(-1) -unordered_map(-1) -random(-1)
+    Welche Struktur ist schluesselbasiert? -map(1) -vector(-1) -stack(-1) -queue(-1);
+
+Aufgabe 96(RoF):
+    Ein set enthaelt keine Duplikate. -Richtig
+    Ein vector ist immer sortiert. -Falsch -> vector ist nur eine Sequenz.
+    unordered_map ist typischerweise hashbasiert. -Richtig;
+
+Aufgabe 97(Zuordnung):
+    Ordne (Sprache) zu (Paradigma)!(2) -Prolog/deklarativ -C++/imperativ -Haskell/funktional
+    Ordne (Test) zu (Werkzeug)! -Unit/googletest -Build/cmake -Parsing/antlr;
+
+Aufgabe 98(Umordnung):
+    Sortiere nach Version.(2) -1.0 -1.10 -1.2
+    Sortiere nach Zahl. -2 -11 -3 -1;
+
+Aufgabe 99(Markierung): Markiere alle Orte.
+    (Berlin)[1] ist eine Stadt, (Deutschland)[2] ein Land.;
+
+Aufgabe 100(Textkorrektur): Korrigiere die Fehler.
+    (Haupstadt)[Hauptstadt,1] schreibt man mit t.
+    (Deutshland)[Deutschland,1] hat ein sch. ;
